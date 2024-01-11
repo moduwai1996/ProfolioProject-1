@@ -174,7 +174,7 @@ from #PercentPopulationVaccinated
 select * from #PercentPopulationVaccinated 
 
 
---crerating view to store data for later 
+--creating view to store data for later 
 
 
 
